@@ -1,5 +1,4 @@
-# Map_Matrix-API
-# Distance & Travel Time Calculator
+# Distance & Travel Time Calculator using Google map Matrix API
 
 ## Description
 
