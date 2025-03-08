@@ -17,7 +17,7 @@ This project calculates the distance and estimated travel time between two locat
 1.  Clone the repository:
 
     ```bash
-    git clone [https://github.com/MuneebUH/Map_Matrix-API.git](https://github.com/MuneebUH/Map_Matrix-API.git)
+    git clone [https://github.com/MuneebUH/Map_Matrix-API.git]
     ```
 
 2.  Navigate to the project directory:
@@ -54,9 +54,6 @@ This project calculates the distance and estimated travel time between two locat
 
 Feel free to submit issues or pull requests to enhance the functionality.
 
-## License
-
-[MIT License]
 
 ## Contact
 
