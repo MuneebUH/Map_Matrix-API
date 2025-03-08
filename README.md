@@ -39,7 +39,7 @@ This project calculates the distance and estimated travel time between two locat
 1.  Run the script:
 
     ```bash
-    python script.py
+    DistAPI.ipynb
     ```
 
 2.  Enter your starting location and destination when prompted.
